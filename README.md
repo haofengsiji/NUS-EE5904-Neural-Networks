@@ -20,5 +20,19 @@ Q3. Scene Classification
 
 * MLP classification application
 
+### HW3
+
+Q1. Function Approximation with RBFN
+
+* RBFN
+
+Q2. Handwritten Digits Classification using RBFN 
+
+* RBFN application
+
+Q3. Self-Organizing Map
+
+* SOM
+
 
 
